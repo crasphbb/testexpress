@@ -1,5 +1,5 @@
 /vendor/
-/index.php
+index.php
 /.idea/
 node_modules/
 npm-debug.log:q!
