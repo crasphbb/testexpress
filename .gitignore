@@ -1,6 +1,8 @@
 /vendor/
+/index.php
+/.idea/
 node_modules/
-npm-debug.log
+npm-debug.log:q!
 yarn-error.log
 
 # Laravel 4 specific
